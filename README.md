@@ -27,7 +27,8 @@ Typically at http://localhost:3000/
 
 ## Author
 
-CodeWithNoob
+codeWithNoob
+
 
 
 ## License
